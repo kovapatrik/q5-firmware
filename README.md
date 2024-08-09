@@ -11,6 +11,15 @@ A customizable 96% keyboard.
 # Extra features
 
 - The toggle LEDs' (like NUMLOCK or CAPSLOCK) color can be set to be the complementary color of the current layer's color.
+- Custom keymap
+  - Encoder:
+    - Toggle: Media Play/Pause
+    - CCW: Media Volume Down
+    - CW: Media Volume Up
+    - Fn + CCW: Media Previous
+    - Fn + CW: Media Next
+    - Fn + Toggle: Volume Mute
+- Vial support
 
 Make example for this keyboard (after setting up your build environment):
 
