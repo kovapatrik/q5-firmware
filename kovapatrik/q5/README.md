@@ -11,6 +11,7 @@ A customizable 96% keyboard.
 # Extra features
 
 - The toggle LEDs' (like NUMLOCK or CAPSLOCK) color can be set to be the complementary color of the current layer's color.
+- ESC key can be configured to change color based on the current default layer.
 - Custom keymap
   - Encoder:
     - Toggle: Media Play/Pause

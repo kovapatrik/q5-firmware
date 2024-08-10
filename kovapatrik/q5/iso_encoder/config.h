@@ -24,3 +24,6 @@
 
 /* Enable num-lock LED */
 #define NUM_LOCK_LED_INDEX 31
+
+/* Enable changing the LED color on ESC based on the layer */
+#define ESC_LED_INDEX 0
